@@ -1,0 +1,11 @@
+C:\Users\balno\source\repos\WebScrapperVezba\bin\Debug\netcoreapp2.2\WebScrapperVezba.deps.json
+C:\Users\balno\source\repos\WebScrapperVezba\bin\Debug\netcoreapp2.2\WebScrapperVezba.runtimeconfig.json
+C:\Users\balno\source\repos\WebScrapperVezba\bin\Debug\netcoreapp2.2\WebScrapperVezba.runtimeconfig.dev.json
+C:\Users\balno\source\repos\WebScrapperVezba\bin\Debug\netcoreapp2.2\WebScrapperVezba.dll
+C:\Users\balno\source\repos\WebScrapperVezba\bin\Debug\netcoreapp2.2\WebScrapperVezba.pdb
+C:\Users\balno\source\repos\WebScrapperVezba\obj\Debug\netcoreapp2.2\WebScrapperVezba.csprojAssemblyReference.cache
+C:\Users\balno\source\repos\WebScrapperVezba\obj\Debug\netcoreapp2.2\WebScrapperVezba.csproj.CoreCompileInputs.cache
+C:\Users\balno\source\repos\WebScrapperVezba\obj\Debug\netcoreapp2.2\WebScrapperVezba.AssemblyInfoInputs.cache
+C:\Users\balno\source\repos\WebScrapperVezba\obj\Debug\netcoreapp2.2\WebScrapperVezba.AssemblyInfo.cs
+C:\Users\balno\source\repos\WebScrapperVezba\obj\Debug\netcoreapp2.2\WebScrapperVezba.dll
+C:\Users\balno\source\repos\WebScrapperVezba\obj\Debug\netcoreapp2.2\WebScrapperVezba.pdb
